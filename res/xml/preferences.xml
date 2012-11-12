@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <ListPreference android:entries="@array/interval_text" android:summary="@string/description_interval" android:entryValues="@array/interval" android:key="@string/key_interval" android:title="@string/title_interval"/>
+    
+
+</PreferenceScreen>

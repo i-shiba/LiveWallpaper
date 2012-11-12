@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="interval">
+        <item >3600000</item>
+        <item >1800000</item>
+        <item >600000</item>
+        <item >300000</item>
+        <item >5000</item>
+    </string-array>
+    <string-array name="interval_text">
+        <item >1時間</item>
+        <item >30分</item>
+        <item >10分</item>
+        <item >5分</item>
+        <item >5秒（テスト用）</item>
+    </string-array>
+    
+</resources>

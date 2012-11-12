@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">スライドショーライブ壁紙</string>
+    <string name="description">画像をライブ壁紙として表示します。</string>
+    <string name="author">i-shiba</string>
+    <string name="title_settings">ライブ壁紙の設定</string>
+    <string name="title_select_folder">フォルダー</string>
+    <string name="description_select_folder">壁紙として表示する画像を含むフォルダーを指定します</string>
+    <string name="label_change">変更</string>
+    <string name="title_interval">更新間隔</string>
+    <string name="description_interval">画像を切り替える間隔を指定します</string>
+    <string name="key_interval">Interval</string>
+    <string name="button_up">上のフォルダー</string>
+    <string name="filelist_empty">ファイルがありません</string>
+    <string name="label_done">このフォルダーを使用する</string>
+</resources>
